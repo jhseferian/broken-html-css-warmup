@@ -6,7 +6,6 @@
   padding: 100px 0px;
   width: 560px;
   margin-left: 200px;
-}
 
 h2 {
   font-size: 48px;
@@ -22,7 +21,7 @@ h3 {
   opacity: .5;
 }
 
-.byline {
+byline {
   text-transform: uppercase;
   font-weight: bold;
   font-size: 13px;

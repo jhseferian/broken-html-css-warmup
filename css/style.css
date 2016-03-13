@@ -1,19 +1,19 @@
 header {
-  background: url("../images/npr.jpg");
+  background: url("npr.jpg");
 }
 
 .section {
-  background: url("../images/npr2.jpg");
+  background: url("npr2.jpg");
 }
 
-.background-image {
+.background-img {
   background-repeat: no-repeat;
   background-size: cover;
   height: 750px;
   width: 100%;
 }
 
-.headline {
+headline {
   text-align: center;
   padding-top: 300px;
   color: white;
@@ -28,7 +28,7 @@ header {
 
 .headline p {
   font-family: serif;
-  font-style: italic;
+  text-transform: italic;
   font-size: 25px;
 }
 

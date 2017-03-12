@@ -1,9 +1,9 @@
-header {
-  background: url("npr.jpg");
+head {
+  background: url("../images/npr.jpg");
 }
 
 .section {
-  background: url("npr2.jpg");
+  background: url("../images/npr2.jpg");
 }
 
 .background-img {
